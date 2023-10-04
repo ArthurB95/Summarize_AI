@@ -19,7 +19,7 @@
 
 ## 💻 About the project
 
-- 🚀 This project is already live and you can access it directly through this link: https://car-show-case-tj6q.vercel.app/
+- 🚀 This project is already live and you can access it directly through this link: https://resumodeartigos.netlify.app/
 - 👨‍💻 Summarize Articles  - The intention of this project is for artificial intelligence to read articles and summarize them using only their URL
 
 ---
